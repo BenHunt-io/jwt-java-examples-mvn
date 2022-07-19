@@ -1,0 +1,5 @@
+# IDE
+.vscode
+
+# Build Dirs
+simple-service/target
